@@ -1,0 +1,162 @@
+* {
+   padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    font-family: 'Sansita Swashed', cursive;
+    color: black;
+}
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    color: white;
+    font-size: 4rem;
+}
+h2 {
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 2rem;
+    
+}
+h3 {
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 1rem;
+}
+h4 {
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 2rem;
+}
+nav ul {
+    background-color: white;
+    border-style: inset;
+    border-color: gray;
+    border-width: 5px;
+    padding: 10px;
+    opacity: 0.5;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Sansita Swashed', cursive;
+}
+nav ul li a {
+    text-decoration: none;
+    color: gray;
+}
+.p100 {
+    width:100%;
+    height:400px;
+    border-style: none;
+    color: black;
+    margin-top:10px;
+}
+.p50 {
+    width:50%;
+    height:400px;
+    float:left;
+    padding:10px;
+    text-align:justify;
+}
+.p100index {
+    width:100%;
+    height:500px;
+    border-style: none;
+    color: black;
+    margin-top:10px;
+}
+.p50index {
+    width:40%;
+    height:500px;
+    float:left;
+    padding:10px;
+    text-align:justify;
+}
+.p25 {
+    width:23%;
+    height:400px;
+    float:left;
+    padding:10px;
+    text-align:justify;
+}
+.whiteopacity {
+    background-color:rgba(255,255,255, 0.5);
+}
+img {
+  border-radius: 10px
+}
+#atticusscoutjem {
+    width: 600px;
+    height: 350px;
+}
+#school {
+    width: 600px;
+    height: 350px;
+}
+#alexandra {
+    width: 600px;
+    height: 350px;
+}
+#court {
+    width: 600px;
+    height: 350px;
+}
+#boo {
+    width: 600px;
+    height: 350px;
+}
+#Scout {
+    width: 300px;
+    height: 230px;
+}
+#Jem {
+    width: 300px;
+    height: 230px;
+}
+#Atti {
+    width: 300px;
+    height: 230px;
+}
+#Calpurnia {
+    width: 300px;
+    height: 230px;
+}
+#Tom {
+    width: 300px;
+    height: 230px;
+}
+#Dill {
+    width: 300px;
+    height: 230px;
+}
+#Boo {
+    width: 300px;
+    height: 185px;
+}
+#Bob {
+    width: 300px;
+    height: 230px;
+}
+#Maye {
+    width: 300px;
+    height: 230px;
+}
+#Alexa {
+    width: 300px;
+    height: 230px;
+}
+#Maudie {
+    width: 300px;
+    height: 230px;
+}
+#Dubose {
+    width: 300px;
+    height: 175px;
+}
